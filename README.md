@@ -5,6 +5,8 @@
 ![Image 17-06-24 at 12 33 PM](https://github.com/Khushi2629/Laravel_CRUD/assets/121286189/b093e403-26ba-430b-bb4f-320422c2152b)
 
 
+https://github.com/Khushi2629/Laravel_CRUD/assets/121286189/5e5f937e-aa68-4a25-9310-e0d4cd79c0ea
+
 
 
 
