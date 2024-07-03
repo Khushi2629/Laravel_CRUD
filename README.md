@@ -6,7 +6,7 @@
 
 
 
-https://github.com/Khushi2629/Laravel_CRUD/assets/121286189/8c1367a5-1b86-4b22-b201-a8e15817d987
+
 
 
 
